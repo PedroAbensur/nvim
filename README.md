@@ -5,6 +5,11 @@ NeoVim 0.8.3 Configuration (Windows-only!!) with LSP and Linters for:
 - HTML, CSS
 - Lua, Rust, Python.
 
+## Screenshot
+
+![screenshot](https://github.com/PedroAbensur/nvim/blob/main/screenshot.jpg)
+
+
 ## Plugins installed:
 - Comment.nvim
 - LuaSnip
@@ -49,10 +54,6 @@ NeoVim 0.8.3 Configuration (Windows-only!!) with LSP and Linters for:
 - vim-surround
 - vim-visual-multi
 - wildfire.vim
-
-## Screenshot
-
-![screenshot](https://github.com/PedroAbensur/nvim/blob/main/screenshot.jpg)
 
 ## Requirements to Use:
 - [Neovim 0.8+](https://github.com/neovim/neovim/releases/tag/v0.8.1)
