@@ -1,11 +1,11 @@
 ## nvim
-NeoVim 0.8.3 Configuration with LSP and Linters for:
+NeoVim 0.8.3 Configuration (Windows-only!!) with LSP and Linters for:
 - C, C++, C#
 - TypeScript, React
 - HTML, CSS
 - Lua, Rust, Python.
 
-##Plugins installed:
+## Plugins installed:
 - Comment.nvim
 - LuaSnip
 - alternate-toggler
@@ -59,3 +59,4 @@ NeoVim 0.8.3 Configuration with LSP and Linters for:
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
+- Windows 10+ (Process may differ for Linux-based and Darwin-based systems)
